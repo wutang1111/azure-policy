@@ -1,3 +1,4 @@
+fossa policy
 {
     "env": {
         "es6": true,
